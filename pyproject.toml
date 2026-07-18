@@ -1,0 +1,14 @@
+[project]
+name = "llm-zoomcamp-2026-hw-05"
+version = "0.1.0"
+description = "Add your description here"
+readme = "README.md"
+requires-python = ">=3.13"
+dependencies = [
+    "gitsource>=0.0.5",
+    "minsearch>=0.2.0",
+    "openai>=2.46.0",
+    "opentelemetry-api>=1.44.0",
+    "opentelemetry-sdk>=1.44.0",
+    "python-dotenv>=1.2.2",
+]
